@@ -1,3 +1,3 @@
 # Interactive-Maze-Generator-and-Path-Finder-in-Java
 
-README AND FURTHER COMMENTS TO BE ADDED SOON
+readme and proper documentation to be added soon
